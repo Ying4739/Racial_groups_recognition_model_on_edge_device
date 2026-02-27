@@ -14,8 +14,8 @@ The project leverages the **YOLOv4-tiny** architecture, optimized specifically f
 * [Realtek AMB82-mini] AIoT Video Development Board
 * Micro USB Cable (for power and programming)
 
-* 💻 Usage
+## 💻 Usage
 * Use arduino IDE to deploy the model on AMB82-mini.
 
-* ⚠️ Disclaimer
+## ⚠️ Disclaimer
 This model is intended for educational and research purposes. Please ensure that the use of demographic classification models complies with local privacy laws and ethical guidelines regarding AI bias and fairness.
